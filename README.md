@@ -54,8 +54,12 @@ The project uses the MovieLens 1M dataset which includes:
 ## Installation
 
 1. Clone the repository:
+```bash
+git clone https://github.com/HimadeepRagiri/DeepLearning_Recommendation_System.git
+cd DeepLearning_Recommendation_System
+```
 
-2. Create a virtual environment (optional but recommended):
+3. Create a virtual environment (optional but recommended):
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
